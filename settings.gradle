@@ -8,3 +8,7 @@
  */
 
 rootProject.name = 'baimoz-lib-java'
+include 'baimoz-lib-basic'
+include 'baimoz-lib-gui'
+include 'baimoz-lib-bigdata'
+
